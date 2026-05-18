@@ -1,6 +1,8 @@
 # 🎤 Caraoke
 
 Tampilkan lirik lagu tersinkron di layar Android Auto — tanpa ganti app musik kamu.
+<img width="791" height="477" alt="Screenshot 2026-05-19 at 02 34 37" src="https://github.com/user-attachments/assets/1d5af066-9fff-4958-b620-4806ae9715e6" />
+
 
 Putar lagu seperti biasa di Spotify atau YouTube Music. Caraoke baca lagunya, 
 ambil lirik tersinkron, lalu tampilkan di head unit mobil kamu. 
