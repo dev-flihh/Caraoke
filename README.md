@@ -10,7 +10,7 @@ Tinggal nyanyi.
 
 ## Download
 
-Cek [Releases](https://github.com/[username]/caraoke/releases) 
+Cek [Releases](https://github.com/dev-flihh/caraoke/releases) 
 untuk download APK versi terbaru.
 
 > Caraoke masih dalam tahap awal. Feedback sangat welcome.
