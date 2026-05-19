@@ -1,83 +1,85 @@
 # 🎤 Caraoke
 
-Tampilkan lirik lagu tersinkron di layar Android Auto — tanpa ganti app musik kamu.
-<img width="791" height="477" alt="Screenshot 2026-05-19 at 02 34 37" src="https://github.com/user-attachments/assets/1d5af066-9fff-4958-b620-4806ae9715e6" />
+Show synced lyrics on your Android Auto screen — without switching your music app.
 
+Play music on Spotify or YouTube Music like you normally would. Caraoke reads 
+the song, fetches the synced lyrics, and displays them on your head unit.
+Just sing.
 
-Putar lagu seperti biasa di Spotify atau YouTube Music. Caraoke baca lagunya, 
-ambil lirik tersinkron, lalu tampilkan di head unit mobil kamu. 
-Tinggal nyanyi.
+![Caraoke on Android Auto]
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9ff42fae-d591-450d-8fbb-3d49720179d4" />
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8430cdc6-acfe-40b1-a701-f515e3517b6f" />
 ---
 
 ## Download
 
-Cek [Releases](https://github.com/dev-flihh/caraoke/releases) 
-untuk download APK versi terbaru.
+Head to [Releases](https://github.com/dev-flihh/caraoke/releases) 
+to download the latest APK.
 
-> Caraoke masih dalam tahap awal. Feedback sangat welcome.
-
----
-
-## Cara Kerja
-
-1. Setel lagu di Spotify / YouTube Music seperti biasa
-2. Caraoke baca lagu yang sedang diputar dari media notification HP
-3. Lirik tersinkron muncul di layar Android Auto, mengikuti posisi lagu
-
-Audio tetap dari app musik kamu. Caraoke hanya mengurus liriknya.
+> Caraoke is in early access. Feedback is very welcome.
 
 ---
 
-## Prasyarat
+## How It Works
+
+1. Play a song on Spotify, YouTube Music, or any music app that creates 
+   an Android media notification
+2. Caraoke reads the song info from your phone's media session
+3. Synced lyrics appear on your Android Auto screen, following playback
+
+Audio stays in your music app. Caraoke only handles the lyrics.
+
+---
+
+## Requirements
 
 - Android phone
-- Android Auto (terpasang di HP)
-- Head unit mobil yang support Android Auto
-- Aplikasi musik yang menyediakan media notification Android 
-  (Spotify, YouTube Music, dll)
-- Koneksi internet (untuk ambil lirik dari LRCLIB)
+- Android Auto installed on your phone
+- A car head unit that supports Android Auto
+- A music app that provides an Android media notification
+  (Spotify, YouTube Music, etc.)
+- Internet connection (to fetch lyrics from LRCLIB)
 
 ---
 
-## Setup Awal (Satu Kali)
+## Setup (One Time)
 
-**1. Install APK**
-Download dari halaman Releases, aktifkan "Install from unknown sources" 
-di HP kamu, lalu install.
+**1. Install the APK**
+Download from the Releases page. Enable "Install from unknown sources" 
+on your phone, then install.
 
-**2. Buka Caraoke, izinkan Notification Access**
-Caraoke butuh akses ini untuk membaca lagu yang sedang diputar — 
-bukan untuk membaca chat atau notifikasi pribadi.
+**2. Open Caraoke — Allow Notification Access**
+Caraoke needs this to read what song is playing. It does not read 
+your chats or personal notifications.
 
-**3. Aktifkan Android Auto Developer Mode**
-Buka Android Auto → tap "Version" beberapa kali sampai 
-developer settings aktif → aktifkan "Unknown sources".
+**3. Enable Android Auto Developer Mode**
+Open Android Auto → tap "Version" several times until developer 
+settings appear → enable "Unknown sources."
 
-**4. Hubungkan ke Mobil**
-Sambungkan HP ke head unit, buka launcher Android Auto, 
-pilih Caraoke. Putar lagu — lirik akan muncul.
-
----
-
-## Keterbatasan Saat Ini
-
-- Hanya support Android Auto (bukan Apple CarPlay)
-- Ketersediaan lirik bergantung pada database [LRCLIB](https://lrclib.net)
-- Jika lagu tidak ditemukan di LRCLIB, akan muncul "Lyrics not found"
-- Belum tersedia di Google Play Store
+**4. Connect to Your Car**
+Plug in your phone, open Android Auto launcher, select Caraoke. 
+Play a song — lyrics will appear.
 
 ---
 
-## Lirik dari LRCLIB
+## Current Limitations
 
-Caraoke mengambil lirik dari [LRCLIB](https://lrclib.net) — 
-layanan lirik tersinkron open source. Terima kasih buat komunitas 
-yang sudah berkontribusi ke database-nya.
+- Android Auto only (not Apple CarPlay)
+- Lyrics availability depends on the [LRCLIB](https://lrclib.net) database
+- If a song isn't in LRCLIB, the app will show "Lyrics not found"
+- Not yet on the Google Play Store
 
 ---
 
-## Feedback & Bug Report
+## Lyrics Source
 
-Buka [Issues](https://github.com/[username]/caraoke/issues) 
-kalau menemukan bug atau punya saran.
+Caraoke fetches synced lyrics from [LRCLIB](https://lrclib.net) — 
+an open source lyrics database. Thanks to everyone who contributes to it.
+
+---
+
+## Feedback & Bug Reports
+
+Open an [Issue](https://github.com/dev-flihh/caraoke/issues) 
+if you run into a bug or have a suggestion.
