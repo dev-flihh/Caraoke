@@ -7,9 +7,9 @@ the song, fetches the synced lyrics, and displays them on your head unit.
 Just sing.
 
 ![Caraoke on Android Auto]
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9ff42fae-d591-450d-8fbb-3d49720179d4" />
-
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8430cdc6-acfe-40b1-a701-f515e3517b6f" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9ff42fae-d591-450d-8fbb-3d49720179d4" />
 ---
 
 ## Download
