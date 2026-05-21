@@ -3,9 +3,17 @@
 
 > Caraoke menghadirkan karaoke serius ke dalam pengalaman berkendara — menampilkan lirik real-time di Android Auto tanpa menggantikan aplikasi musik yang sudah kamu pakai.
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8430cdc6-acfe-40b1-a701-f515e3517b6f" />
+<img 
+  width="320" 
+  alt="Screenshot Caraoke di Android Auto head unit - halaman awal" 
+  src="https://github.com/user-attachments/assets/8430cdc6-acfe-40b1-a701-f515e3517b6f" 
+/>
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9ff42fae-d591-450d-8fbb-3d49720179d4" />
+<img 
+  width="320" 
+  alt="Screenshot Caraoke di Android Auto head unit - lirik tersinkron" 
+  src="https://github.com/user-attachments/assets/9ff42fae-d591-450d-8fbb-3d49720179d4" 
+/>
 
 **Platform:** Android 8.0+ · Android Auto  
 **Versi panduan ini:** Caraoke v0.1.5  
@@ -110,19 +118,28 @@ Setelah Caraoke terinstall, ada empat pengaturan yang harus dilakukan sebelum ap
 ### Langkah 1 — Buka Caraoke
 
 Buka app **Caraoke** dari launcher HP. Saat pertama dibuka, app akan menampilkan langkah setup awal. Caraoke perlu dibuka minimal sekali agar service-nya siap berjalan di belakang layar.
-<img width="624" height="1280" alt="image" src="https://github.com/user-attachments/assets/950c5447-0417-47f1-9b16-373fe86c7fef" />
+
+<img 
+  width="280" 
+  alt="Screenshot buka Caraoke app pertama kali di HP" 
+  src="https://github.com/user-attachments/assets/950c5447-0417-47f1-9b16-373fe86c7fef" 
+/>
 
 ### Langkah 2 — Izinkan Notifikasi
 
 Di Android 13 ke atas, sistem akan meminta izin notifikasi. Pilih **Allow / Izinkan**.
+
 <img 
-  width="350" 
-  alt="Screenshot Caraoke di HP" 
+  width="280" 
+  alt="Screenshot izin notifikasi Caraoke di HP" 
   src="https://github.com/user-attachments/assets/5e65a77e-e620-42dd-adc1-d030effcd505" 
 />
 
-<img width="613" height="1280" alt="image" src="https://github.com/user-attachments/assets/b55fccb2-38aa-47f8-a6c2-c812d337b5ff" />
-
+<img 
+  width="280" 
+  alt="Screenshot Caraoke notification access setup" 
+  src="https://github.com/user-attachments/assets/b55fccb2-38aa-47f8-a6c2-c812d337b5ff" 
+/>
 
 Caraoke memakai notifikasi kecil untuk menjaga service-nya tetap aktif. Tanpa ini, Android bisa mematikan prosesnya saat layar HP mati atau saat app tidak dibuka.
 
@@ -133,7 +150,13 @@ Caraoke memakai notifikasi kecil untuk menjaga service-nya tetap aktif. Tanpa in
 3. Aktifkan akses untuk Caraoke
 4. Jika muncul peringatan, pilih **Allow / Izinkan**
 5. Kembali ke Caraoke
-<img width="1439" height="1313" alt="image" src="https://github.com/user-attachments/assets/3b514a72-b8b4-4213-81b5-ec3aae4ce2eb" />
+
+<img 
+  width="300" 
+  alt="Screenshot Notification Access settings di Android" 
+  src="https://github.com/user-attachments/assets/3b514a72-b8b4-4213-81b5-ec3aae4ce2eb" 
+/>
+
 **Mengapa ini penting?**  
 Caraoke membaca notifikasi musik (berisi judul lagu, artist, dan status pemutaran) untuk mengetahui lagu apa yang sedang berjalan. Tanpa akses ini, Caraoke tidak tahu lirik apa yang harus dicari.
 
