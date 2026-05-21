@@ -60,7 +60,9 @@ Lirik tampil tersinkron di Android Auto
 Caraoke belum tersedia di Google Play Store dan didistribusikan sebagai APK dari GitHub Releases. Karena itu:
 
 - Android akan meminta izin tambahan untuk install dari sumber tidak dikenal
+  
 - Android Auto perlu diaktifkan mode developernya agar bisa menampilkan app yang diinstall manual
+  
 - Prosesnya sedikit lebih panjang dari install Play Store biasa, tapi semuanya normal dan aman selama APK diambil dari repo resmi
 
 > ⚠️ **Penting:** Hanya download APK dari `github.com/dev-flihh/caraoke/releases`. Jangan install dari sumber lain meskipun tampilannya mirip.
