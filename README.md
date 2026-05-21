@@ -140,6 +140,12 @@ Caraoke memakai notifikasi kecil untuk menjaga service-nya tetap aktif. Tanpa in
 ### Langkah 3 — Aktifkan Notification Access
 
 1. Di layar Caraoke, tap **Open notification settings**
+<img 
+  width="280" 
+  alt="Screenshot buka Caraoke app pertama kali di HP" 
+  src="https://github.com/user-attachments/assets/950c5447-0417-47f1-9b16-373fe86c7fef" 
+/>
+
 2. Cari **Caraoke** di daftar
 3. Aktifkan akses untuk Caraoke
 4. Jika muncul peringatan, pilih **Allow / Izinkan**
