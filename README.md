@@ -296,10 +296,15 @@ Android Auto tidak otomatis menampilkan semua aplikasi yang diinstall manual. `U
 ## Batasan yang Perlu Diketahui
 
 - **Bukan untuk iPhone / CarPlay.** Caraoke dibuat khusus untuk Android. APK tidak bisa diinstall atau dijalankan di iPhone.
+  
 - **Butuh koneksi internet.** Lirik diambil secara online dari LRCLIB. Tanpa koneksi, lirik tidak akan muncul.
+  
 - **Tidak semua lagu punya lirik.** Hanya lagu dengan lirik tersinkron yang tersedia di LRCLIB yang bisa ditampilkan.
+  
 - **Head unit standalone.** Head unit Android standalone tanpa Android Auto mungkin menampilkan Caraoke sebagai app Android biasa, bukan tampilan Android Auto.
+  
 - **Android minimum 8.0.** Versi Android di bawahnya tidak didukung.
+  
 - **Kebijakan sideload ke depan.** Mulai September 2026, beberapa wilayah akan mulai mewajibkan verifikasi developer tambahan untuk install APK manual di perangkat Android tersertifikasi.
 
 ---
@@ -326,16 +331,23 @@ Pastikan semua poin di bawah sudah selesai sebelum mencoba Caraoke di head unit:
 ### Caraoke tidak muncul di Android Auto
 
 - Pastikan **Unknown sources** di Developer settings Android Auto sudah aktif
+  
 - Cek **Customize launcher** — pastikan Caraoke dicentang
+  
 - Tutup Android Auto dan sambungkan ulang
+  
 - Restart HP jika Android Auto belum refresh daftar app
+  
 - Pastikan Caraoke sudah dibuka minimal sekali di HP
 
 ### Lirik tidak muncul
 
 - Pastikan koneksi internet aktif — Caraoke mengambil lirik dari LRCLIB secara online
+
 - Coba lagu lain; tidak semua lagu punya lirik tersinkron
+  
 - Pastikan notifikasi musik muncul di HP saat lagu diputar
+  
 - Tunggu beberapa detik setelah lagu berganti
 
 ---
