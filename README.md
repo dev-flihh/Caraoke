@@ -110,10 +110,15 @@ Setelah Caraoke terinstall, ada empat pengaturan yang harus dilakukan sebelum ap
 ### Langkah 1 — Buka Caraoke
 
 Buka app **Caraoke** dari launcher HP. Saat pertama dibuka, app akan menampilkan langkah setup awal. Caraoke perlu dibuka minimal sekali agar service-nya siap berjalan di belakang layar.
+<img width="624" height="1280" alt="image" src="https://github.com/user-attachments/assets/950c5447-0417-47f1-9b16-373fe86c7fef" />
 
 ### Langkah 2 — Izinkan Notifikasi
 
 Di Android 13 ke atas, sistem akan meminta izin notifikasi. Pilih **Allow / Izinkan**.
+<img width="1439" height="1313" alt="image" src="https://github.com/user-attachments/assets/5e65a77e-e620-42dd-adc1-d030effcd505" />
+
+<img width="613" height="1280" alt="image" src="https://github.com/user-attachments/assets/b55fccb2-38aa-47f8-a6c2-c812d337b5ff" />
+
 
 Caraoke memakai notifikasi kecil untuk menjaga service-nya tetap aktif. Tanpa ini, Android bisa mematikan prosesnya saat layar HP mati atau saat app tidak dibuka.
 
@@ -124,7 +129,7 @@ Caraoke memakai notifikasi kecil untuk menjaga service-nya tetap aktif. Tanpa in
 3. Aktifkan akses untuk Caraoke
 4. Jika muncul peringatan, pilih **Allow / Izinkan**
 5. Kembali ke Caraoke
-
+<img width="1439" height="1313" alt="image" src="https://github.com/user-attachments/assets/3b514a72-b8b4-4213-81b5-ec3aae4ce2eb" />
 **Mengapa ini penting?**  
 Caraoke membaca notifikasi musik (berisi judul lagu, artist, dan status pemutaran) untuk mengetahui lagu apa yang sedang berjalan. Tanpa akses ini, Caraoke tidak tahu lirik apa yang harus dicari.
 
