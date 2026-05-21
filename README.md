@@ -200,7 +200,7 @@ Caraoke mengikuti aplikasi musik lain — bukan memutar sendiri — jadi musik h
   src="https://github.com/user-attachments/assets/a7cf5acc-cf08-4ef6-91c6-a8bb2f20ac49" 
 />
 
-4. Tap **Version** sekitar 10 kali hingga muncul pesan bahwa Developer Settings aktif
+4. Tap **Version** sekitar 10 kali hingga muncul pesan bahwa Developer Settings aktif. Tap 'Ok'
 
 <img 
   width="280" 
