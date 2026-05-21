@@ -67,14 +67,6 @@ Caraoke belum tersedia di Google Play Store dan didistribusikan sebagai APK dari
 3. Di bagian **Assets**, cari dan tap file dengan akhiran `.apk` — misalnya `caraoke-v0.1.5.apk`
 4. Jika browser memperingatkan bahwa file APK berpotensi berbahaya, itu perilaku normal sistem Android. Selama URL berasal dari repo resmi `dev-flihh/caraoke`, lanjutkan download
 
-**Verifikasi checksum (opsional tapi disarankan)**
-
-Untuk memastikan file tidak rusak atau diubah di tengah jalan, cocokkan SHA-256 file yang didownload. SHA-256 untuk `caraoke-v0.1.5.apk`:
-
-```
-fcedf5e5a95c6fadd86db59b8f1695ab2c11ff7c2ae3b15050b423f153c90dbb
-```
-
 ---
 
 ## 2 · Install APK di HP
