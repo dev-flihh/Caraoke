@@ -149,14 +149,15 @@ Caraoke memakai notifikasi kecil untuk menjaga service-nya tetap aktif. Tanpa in
 
 2. Cari **Caraoke** di daftar
 3. Aktifkan akses untuk Caraoke
-4. Jika muncul peringatan, pilih **Allow / Izinkan**
-5. Kembali ke Caraoke
 
 <img 
   width="300" 
   alt="Screenshot Notification Access settings di Android" 
   src="https://github.com/user-attachments/assets/3b514a72-b8b4-4213-81b5-ec3aae4ce2eb" 
 />
+
+4. Jika muncul peringatan, pilih **Allow / Izinkan**
+5. Kembali ke Caraoke
 
 **Mengapa ini penting?**  
 Caraoke membaca notifikasi musik (berisi judul lagu, artist, dan status pemutaran) untuk mengetahui lagu apa yang sedang berjalan. Tanpa akses ini, Caraoke tidak tahu lirik apa yang harus dicari.
