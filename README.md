@@ -140,6 +140,7 @@ Caraoke memakai notifikasi kecil untuk menjaga service-nya tetap aktif. Tanpa in
 ### Langkah 3 — Aktifkan Notification Access
 
 1. Di layar Caraoke, tap **Open notification settings**
+
 <img 
   width="280" 
   alt="Screenshot buka Caraoke app pertama kali di HP" 
