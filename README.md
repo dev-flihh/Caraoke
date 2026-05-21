@@ -131,12 +131,6 @@ Di Android 13 ke atas, sistem akan meminta izin notifikasi. Pilih **Allow / Izin
 
 <img 
   width="280" 
-  alt="Screenshot izin notifikasi Caraoke di HP" 
-  src="https://github.com/user-attachments/assets/5e65a77e-e620-42dd-adc1-d030effcd505" 
-/>
-
-<img 
-  width="280" 
   alt="Screenshot Caraoke notification access setup" 
   src="https://github.com/user-attachments/assets/b55fccb2-38aa-47f8-a6c2-c812d337b5ff" 
 />
