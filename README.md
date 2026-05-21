@@ -16,7 +16,7 @@
 />
 
 **Platform:** Android 8.0+ · Android Auto  
-**Versi panduan ini:** Caraoke v0.1.5  
+**Versi panduan ini:** Caraoke v0.1.7  
 **Sumber APK resmi:** [github.com/dev-flihh/caraoke/releases](https://github.com/dev-flihh/caraoke/releases)
 
 ---
@@ -72,7 +72,7 @@ Caraoke belum tersedia di Google Play Store dan didistribusikan sebagai APK dari
 1. Buka halaman release resmi:  
    👉 [https://github.com/dev-flihh/caraoke/releases](https://github.com/dev-flihh/caraoke/releases)
 2. Pilih release terbaru yang tersedia
-3. Di bagian **Assets**, cari dan tap file dengan akhiran `.apk` — misalnya `caraoke-v0.1.5.apk`
+3. Di bagian **Assets**, cari dan tap file dengan akhiran `.apk` — misalnya `caraoke-v0.1.7.apk`
 4. Jika browser memperingatkan bahwa file APK berpotensi berbahaya, itu perilaku normal sistem Android. Selama URL berasal dari repo resmi `dev-flihh/caraoke`, lanjutkan download
 
 ---
@@ -183,6 +183,16 @@ Caraoke mengikuti aplikasi musik lain — bukan memutar sendiri — jadi musik h
 
 ### Langkah 1 — Aktifkan Developer Mode
 
+**Opsi A:** Buka aplikasi Caraoke dan klik **Open Android Auto**
+
+<img 
+  width="280" 
+  alt="Screenshot shortcut Open Android Auto di Caraoke app" 
+  src="https://github.com/user-attachments/assets/75721971-83e4-456f-a5c3-230e9e334239" 
+/>
+
+**Opsi B:** Atau buka melalui Settings HP:
+
 1. Buka **Settings** di HP
 2. Cari dan buka **Android Auto**
 
@@ -200,7 +210,7 @@ Caraoke mengikuti aplikasi musik lain — bukan memutar sendiri — jadi musik h
   src="https://github.com/user-attachments/assets/a7cf5acc-cf08-4ef6-91c6-a8bb2f20ac49" 
 />
 
-4. Tap **Version** sekitar 10 kali hingga muncul pesan bahwa Developer Settings aktif. Tap 'Ok'
+4. Tap **Version** sekitar 10 kali hingga muncul pesan bahwa Developer Settings aktif. Tap **Ok**
 
 <img 
   width="280" 
@@ -230,8 +240,22 @@ Android Auto tidak otomatis menampilkan semua aplikasi yang diinstall manual. `U
 ### Langkah 2 — Tambahkan Caraoke ke Launcher
 
 1. Masih di pengaturan Android Auto, buka **Customize launcher**
+
+<img 
+  width="320" 
+  alt="Screenshot membuka Customize launcher di Android Auto" 
+  src="https://github.com/user-attachments/assets/da986342-1992-4fea-bf88-675a04ad07a2" 
+/>
+
 2. Cari **Caraoke**
 3. Centang atau aktifkan Caraoke
+
+<img 
+  width="320" 
+  alt="Screenshot mengaktifkan Caraoke di Customize launcher" 
+  src="https://github.com/user-attachments/assets/4e25b0c4-9e58-45d3-95bc-3426b8131684" 
+/>
+
 4. Jika belum muncul, cabut lalu sambungkan ulang Android Auto, atau restart HP
 
 ---
@@ -244,7 +268,20 @@ Android Auto tidak otomatis menampilkan semua aplikasi yang diinstall manual. `U
 4. Putar lagu dari app musik di HP
 5. Buka app launcher di Android Auto
 6. Pilih **Caraoke**
+
+<img 
+  width="320" 
+  alt="Screenshot memilih Caraoke di Android Auto launcher" 
+  src="https://github.com/user-attachments/assets/5121c48b-e955-4d18-b5b7-888b6b1ded46" 
+/>
+
 7. Lirik akan tampil mengikuti lagu yang sedang diputar
+
+<img 
+  width="320" 
+  alt="Screenshot Caraoke menampilkan lirik di head unit" 
+  src="https://github.com/user-attachments/assets/8430cdc6-acfe-40b1-a701-f515e3517b6f" 
+/>
 
 ---
 
