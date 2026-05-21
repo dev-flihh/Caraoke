@@ -115,7 +115,11 @@ Buka app **Caraoke** dari launcher HP. Saat pertama dibuka, app akan menampilkan
 ### Langkah 2 — Izinkan Notifikasi
 
 Di Android 13 ke atas, sistem akan meminta izin notifikasi. Pilih **Allow / Izinkan**.
-<img width="1439" height="1313" alt="image" src="https://github.com/user-attachments/assets/5e65a77e-e620-42dd-adc1-d030effcd505" />
+<img 
+  width="350" 
+  alt="Screenshot Caraoke di HP" 
+  src="https://github.com/user-attachments/assets/5e65a77e-e620-42dd-adc1-d030effcd505" 
+/>
 
 <img width="613" height="1280" alt="image" src="https://github.com/user-attachments/assets/b55fccb2-38aa-47f8-a6c2-c812d337b5ff" />
 
