@@ -158,7 +158,21 @@ Caraoke membaca notifikasi musik (berisi judul lagu, artist, dan status pemutara
 
 1. Buka YouTube Music, Spotify, atau aplikasi musik lain
 2. Putar sebuah lagu
+
+<img 
+  width="280" 
+  alt="Screenshot aplikasi musik dijalankan di HP" 
+  src="https://github.com/user-attachments/assets/ff856ed0-4be9-4e9f-bfb2-9d6049fed33f" 
+/>
+
 3. Pastikan notifikasi musik muncul di HP
+
+<img 
+  width="320" 
+  alt="Screenshot notifikasi musik di status bar HP" 
+  src="https://github.com/user-attachments/assets/34100ad0-5045-4cfd-bbad-b50dc54c6807" 
+/>
+
 4. Kembali ke Caraoke
 
 Caraoke mengikuti aplikasi musik lain — bukan memutar sendiri — jadi musik harus aktif agar ada data lagu yang bisa diproses.
@@ -171,11 +185,45 @@ Caraoke mengikuti aplikasi musik lain — bukan memutar sendiri — jadi musik h
 
 1. Buka **Settings** di HP
 2. Cari dan buka **Android Auto**
+
+<img 
+  width="280" 
+  alt="Screenshot membuka pengaturan Android Auto" 
+  src="https://github.com/user-attachments/assets/1d85e602-bec1-4b70-a388-6af1ad343628" 
+/>
+
 3. Scroll ke bagian **Version**
+
+<img 
+  width="280" 
+  alt="Screenshot menu version di Android Auto settings" 
+  src="https://github.com/user-attachments/assets/a7cf5acc-cf08-4ef6-91c6-a8bb2f20ac49" 
+/>
+
 4. Tap **Version** sekitar 10 kali hingga muncul pesan bahwa Developer Settings aktif
+
+<img 
+  width="280" 
+  alt="Screenshot pesan Developer Settings berhasil diaktifkan" 
+  src="https://github.com/user-attachments/assets/1a643b1b-dd75-4ec2-9527-1f700ffeb729" 
+/>
+
 5. Tap menu **titik tiga** di kanan atas
 6. Buka **Developer settings**
+
+<img 
+  width="280" 
+  alt="Screenshot menu Developer settings di Android Auto" 
+  src="https://github.com/user-attachments/assets/b13665a8-3535-44d3-ae60-86d8f1c1969e" 
+/>
+
 7. Aktifkan **Unknown sources**
+
+<img 
+  width="320" 
+  alt="Screenshot Unknown sources toggle di Developer Settings" 
+  src="https://github.com/user-attachments/assets/37e21c7e-002f-4779-b66d-51a6e4ccc729" 
+/>
 
 Android Auto tidak otomatis menampilkan semua aplikasi yang diinstall manual. `Unknown sources` memberi izin ke Android Auto untuk menampilkan app seperti Caraoke.
 
